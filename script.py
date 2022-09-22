@@ -1,0 +1,1 @@
+print("Proiect nou")
